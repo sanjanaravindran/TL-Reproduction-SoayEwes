@@ -1,0 +1,22 @@
+TL Dynamics and Reproduction in Soay sheep females (Metadata): 
+ID - Unique IDs for individual sheep 
+Year - The year RTL was sampled (August) and individual invested in reproduction (March - August)
+Age - Age of the individual
+AgeGroup - The agegroup (1 = Yearlings (1 year olds); 2 = Adults (2-6 years of age); 3 = Geriatrics (>= 7 years of age) the individual belonged to
+Weight - The weight of the individual (August)
+RTL - The relative telomere length of the individual (August)
+qPCRPlate - The plate ID the RTL sample was run on for qPCR assay
+qPCRRow - The row within the plate the RTL sample was run on for qPCR assay
+Fecundity - Whether the individual bred (1) or not (0)
+Twinning - Whether the individual gave birth to twins (1) or not (0)
+LambSurvival - Whether atleast one lamb(s) born to the individual survived to full weaning stage (August end) or not
+LambSex - The sex of the lambs born to the individual (1 = Female(s), 2 = Male(s), 3 = Female & Male, 4 = Not Available)
+ReproIndex - The reproductive status of the individual (1 = Did not reproduce, 
+                                                        2 = Gave birth to one lamb that died before August 31st , 
+                                                        3 = Gave birth to one lamb that survived until August 31st,
+                                                        4 = Gave birth to two lambs that died before August 31st ,
+                                                        5 = Gave birth to two lambs and one survived until August 31st,
+                                                        6 = Gave birth to two lambs and both survived until August 31st)
+ReproStatus - The reproductive status of the individual (1 = Did not reproduce, 
+                                                         2 = Gave birth to at least one lamb that died before August 31st , 
+                                                         3 = Gave birth to at least one lamb that survived until August 31st)
